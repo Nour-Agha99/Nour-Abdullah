@@ -1,0 +1,13 @@
+{
+  "name": "nour-abdullah",
+  "version": "1.0.0",
+  "description": "- Search movies by title\r - Get movie's details",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
